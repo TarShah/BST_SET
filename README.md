@@ -23,4 +23,4 @@ Return 1 if it belongs, else return 0.
 
 9  Print - Given the set number, print all its elements as comma-separated values. 
 
-// New sets numbers should be created in a consecutive oreder
+// New sets numbers should be created in a consecutive order
